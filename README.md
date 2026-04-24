@@ -1,4 +1,3 @@
-```markdown
 # TOTEM - The Chess Bot ♟️
 
 **TOTEM** is a full-featured, 100% offline chess engine and GUI built with Python and Pygame. It offers a professional-grade experience ranging from casual play with real-time assistance to grandmaster-level calculation for tournament analysis.
@@ -35,6 +34,7 @@ my-awesome-project/
 │   └── test_main.py
 │
 └── docs/                   # Extra documentation or images for the README
+
 ```
 
 ---
@@ -54,11 +54,12 @@ my-awesome-project/
     ```
 2.  **Install dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install chess pygame
+    python TOTEM.py
     ```
 3.  **Run the application:**
     ```bash
-    python src/main.py
+    python src/TOTEM.py
     ```
 
 ---
@@ -77,4 +78,3 @@ my-awesome-project/
 
 ## 📜 License
 This project is distributed under the MIT License.
-```
