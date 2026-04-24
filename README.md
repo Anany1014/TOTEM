@@ -49,8 +49,8 @@ my-awesome-project/
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/my-awesome-project.git](https://github.com/your-username/my-awesome-project.git)
-    cd my-awesome-project
+    git clone [https://github.com/Anany1014/TOTEM.git](https://github.com/Anany1014/TOTEM.git)
+    cd TOTEM
     ```
 2.  **Install dependencies:**
     ```bash
