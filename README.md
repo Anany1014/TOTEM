@@ -27,11 +27,7 @@ my-awesome-project/
 ├── requirements.txt        # Your package versions (python-chess, pygame)
 │
 ├── src/                    # Source code
-│   ├── main.py             # Main entry point for TOTEM
-│   └── utils/              # Helper functions and assets
-│
-├── tests/                  # Unit tests for engine logic
-│   └── test_main.py
+│   ├── TOTEM.py             # Main entry point for TOTEM
 │
 └── docs/                   # Extra documentation or images for the README
 
@@ -49,13 +45,12 @@ my-awesome-project/
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Anany1014/TOTEM.git](https://github.com/Anany1014/TOTEM.git)
+    git clone https://github.com/Anany1014/TOTEM.git
     cd TOTEM
     ```
 2.  **Install dependencies:**
     ```bash
-    pip install chess pygame
-    python TOTEM.py
+    pip install -r requirements.txt
     ```
 3.  **Run the application:**
     ```bash
