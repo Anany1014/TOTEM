@@ -66,11 +66,11 @@ my-awesome-project/
 
 ---
 
-## 🕹️ How to Play
-<img src="TOTEM/docs/Lobby.png" width="200" alt="Description">
-<img src="path/to/image2.png" width="200" alt="Description">
-<img src="path/to/image3.png" width="200" alt="Description">
-<img src="path/to/image4.png" width="200" alt="Description">   
+## IMAGES
+<img src="docs/Lobby.png" width="200" alt="Lobby">
+<img src="docs/Assistance mode.png" width="200" alt="Assistance mode">
+<img src="docs/Independent mode.png" width="200" alt="Independent mode">
+<img src="docs/Review After mode.png" width="200" alt="Review After mode">   
 
 ---
 
