@@ -66,6 +66,14 @@ my-awesome-project/
 
 ---
 
+## 🕹️ How to Play
+<img src="TOTEM/docs/Lobby.png" width="200" alt="Description">
+<img src="path/to/image2.png" width="200" alt="Description">
+<img src="path/to/image3.png" width="200" alt="Description">
+<img src="path/to/image4.png" width="200" alt="Description">   
+
+---
+
 ## 🛠️ Technical Details
 * **Engine Algorithm:** Minimax with Alpha-Beta Pruning.
 * **Evaluation:** Custom Piece-Square Tables (PST) combined with mobility and check-state scoring.
