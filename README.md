@@ -19,7 +19,7 @@
 ## 📁 Project Structure
 
 ```text
-my-awesome-project/
+TOTEM/
 │
 ├── .gitignore              # Hides secret/system files
 ├── README.md               # Your front-page documentation
